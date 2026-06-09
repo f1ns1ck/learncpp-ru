@@ -91,6 +91,35 @@ html[data-theme="dark"] .answer-list {
   border-color: #314150;
 }
 
+html[data-theme="dark"] .inline-code {
+  background: #162638;
+  border-color: #3b5a73;
+  color: #dcecf7;
+}
+
+html[data-theme="dark"] .practice-list li,
+html[data-theme="dark"] .term-item,
+html[data-theme="dark"] .lesson-page-link {
+  background: #162331;
+  border-color: #314150;
+}
+
+html[data-theme="dark"] .lesson-page-link:hover {
+  border-color: #4b6072;
+  background: #1b2a39;
+}
+
+html[data-theme="dark"] .lesson-status,
+html[data-theme="dark"] .pill,
+html[data-theme="dark"] .answer-count {
+  background: #17362f;
+  color: #d9f4ec;
+}
+
+html[data-theme="dark"] .answer-rows li {
+  border-top-color: #314150;
+}
+
 * {
   box-sizing: border-box;
 }
