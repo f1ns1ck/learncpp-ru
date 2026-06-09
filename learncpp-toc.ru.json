@@ -1,0 +1,3057 @@
+{
+  "source": "https://www.learncpp.com/",
+  "fetchedAt": "2026-06-08T08:18:58.558Z",
+  "chapterCount": 31,
+  "lessonCount": 354,
+  "chapters": [
+    {
+      "number": "0",
+      "title": "Introduction / Getting Started",
+      "ruTitle": "Введение / Начало работы",
+      "lessons": [
+        {
+          "number": "0.1",
+          "id": "introduction-to-these-tutorials",
+          "title": "Introduction to these tutorials",
+          "ruTitle": "Знакомство с этими уроками",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-these-tutorials/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.2",
+          "id": "introduction-to-programming-languages",
+          "title": "Introduction to programs and programming languages",
+          "ruTitle": "Знакомство с программами и языками программирования",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-programming-languages/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.3",
+          "id": "introduction-to-cplusplus",
+          "title": "Introduction to C/C++",
+          "ruTitle": "Введение в C/C++",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-cplusplus/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.4",
+          "id": "introduction-to-cpp-development",
+          "title": "Introduction to C++ development",
+          "ruTitle": "Введение в разработку на C++",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-cpp-development/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.5",
+          "id": "introduction-to-the-compiler-linker-and-libraries",
+          "title": "Introduction to the compiler, linker, and libraries",
+          "ruTitle": "Введение в компилятор, компоновщик и библиотеки.",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-the-compiler-linker-and-libraries/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.6",
+          "id": "installing-an-integrated-development-environment-ide",
+          "title": "Installing an Integrated Development Environment (IDE)",
+          "ruTitle": "Установка интегрированной среды разработки (IDE)",
+          "url": "https://www.learncpp.com/cpp-tutorial/installing-an-integrated-development-environment-ide/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.7",
+          "id": "compiling-your-first-program",
+          "title": "Compiling your first program",
+          "ruTitle": "Компиляция вашей первой программы",
+          "url": "https://www.learncpp.com/cpp-tutorial/compiling-your-first-program/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.8",
+          "id": "a-few-common-cpp-problems",
+          "title": "A few common C++ problems",
+          "ruTitle": "Несколько распространенных проблем C++",
+          "url": "https://www.learncpp.com/cpp-tutorial/a-few-common-cpp-problems/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.9",
+          "id": "configuring-your-compiler-build-configurations",
+          "title": "Configuring your compiler: Build configurations",
+          "ruTitle": "Настройка компилятора: конфигурации сборки",
+          "url": "https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-build-configurations/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.10",
+          "id": "configuring-your-compiler-compiler-extensions",
+          "title": "Configuring your compiler: Compiler extensions",
+          "ruTitle": "Настройка компилятора: расширения компилятора",
+          "url": "https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-compiler-extensions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.11",
+          "id": "configuring-your-compiler-warning-and-error-levels",
+          "title": "Configuring your compiler: Warning and error levels",
+          "ruTitle": "Настройка компилятора: уровни предупреждений и ошибок",
+          "url": "https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.12",
+          "id": "configuring-your-compiler-choosing-a-language-standard",
+          "title": "Configuring your compiler: Choosing a language standard",
+          "ruTitle": "Настройка компилятора: выбор языкового стандарта",
+          "url": "https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-choosing-a-language-standard/",
+          "status": "В переводе"
+        },
+        {
+          "number": "0.13",
+          "id": "what-language-standard-is-my-compiler-using",
+          "title": "What language standard is my compiler using?",
+          "ruTitle": "Какой языковой стандарт использует мой компилятор?",
+          "url": "https://www.learncpp.com/cpp-tutorial/what-language-standard-is-my-compiler-using/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "title": "C++ Basics",
+      "ruTitle": "Основы С++",
+      "lessons": [
+        {
+          "number": "1.1",
+          "id": "statements-and-the-structure-of-a-program",
+          "title": "Statements and the structure of a program",
+          "ruTitle": "Операторы и структура программы",
+          "url": "https://www.learncpp.com/cpp-tutorial/statements-and-the-structure-of-a-program/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.2",
+          "id": "comments",
+          "title": "Comments",
+          "ruTitle": "Комментарии",
+          "url": "https://www.learncpp.com/cpp-tutorial/comments/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.3",
+          "id": "introduction-to-objects-and-variables",
+          "title": "Introduction to objects and variables",
+          "ruTitle": "Введение в объекты и переменные",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.4",
+          "id": "variable-assignment-and-initialization",
+          "title": "Variable assignment and initialization",
+          "ruTitle": "Назначение переменных и инициализация",
+          "url": "https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.5",
+          "id": "introduction-to-iostream-cout-cin-and-endl",
+          "title": "Introduction to iostream: cout, cin, and endl",
+          "ruTitle": "Введение в iostream: cout, cin и endl",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.6",
+          "id": "uninitialized-variables-and-undefined-behavior",
+          "title": "Uninitialized variables and undefined behavior",
+          "ruTitle": "Неинициализированные переменные и неопределенное поведение",
+          "url": "https://www.learncpp.com/cpp-tutorial/uninitialized-variables-and-undefined-behavior/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.7",
+          "id": "keywords-and-naming-identifiers",
+          "title": "Keywords and naming identifiers",
+          "ruTitle": "Ключевые слова и идентификаторы именования",
+          "url": "https://www.learncpp.com/cpp-tutorial/keywords-and-naming-identifiers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.8",
+          "id": "whitespace-and-basic-formatting",
+          "title": "Whitespace and basic formatting",
+          "ruTitle": "Пробелы и базовое форматирование",
+          "url": "https://www.learncpp.com/cpp-tutorial/whitespace-and-basic-formatting/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.9",
+          "id": "introduction-to-literals-and-operators",
+          "title": "Introduction to literals and operators",
+          "ruTitle": "Введение в литералы и операторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-literals-and-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.10",
+          "id": "introduction-to-expressions",
+          "title": "Introduction to expressions",
+          "ruTitle": "Знакомство с выражениями",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-expressions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.11",
+          "id": "developing-your-first-program",
+          "title": "Developing your first program",
+          "ruTitle": "Разработка вашей первой программы",
+          "url": "https://www.learncpp.com/cpp-tutorial/developing-your-first-program/",
+          "status": "В переводе"
+        },
+        {
+          "number": "1.x",
+          "id": "chapter-1-summary-and-quiz",
+          "title": "Chapter 1 summary and quiz",
+          "ruTitle": "Краткое содержание главы 1 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-1-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "C++ Basics: Functions and Files",
+      "ruTitle": "Основы C++: функции и файлы",
+      "lessons": [
+        {
+          "number": "2.1",
+          "id": "introduction-to-functions",
+          "title": "Introduction to functions",
+          "ruTitle": "Введение в функции",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.2",
+          "id": "function-return-values-value-returning-functions",
+          "title": "Function return values (value-returning functions)",
+          "ruTitle": "Возвращаемые значения функций (функции, возвращающие значения)",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-return-values-value-returning-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.3",
+          "id": "void-functions-non-value-returning-functions",
+          "title": "Void functions (non-value returning functions)",
+          "ruTitle": "Пустые функции (функции, не возвращающие значения)",
+          "url": "https://www.learncpp.com/cpp-tutorial/void-functions-non-value-returning-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.4",
+          "id": "introduction-to-function-parameters-and-arguments",
+          "title": "Introduction to function parameters and arguments",
+          "ruTitle": "Введение в параметры и аргументы функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-function-parameters-and-arguments/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.5",
+          "id": "introduction-to-local-scope",
+          "title": "Introduction to local scope",
+          "ruTitle": "Введение в локальную область действия",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.6",
+          "id": "why-functions-are-useful-and-how-to-use-them-effectively",
+          "title": "Why functions are useful, and how to use them effectively",
+          "ruTitle": "Почему функции полезны и как их эффективно использовать",
+          "url": "https://www.learncpp.com/cpp-tutorial/why-functions-are-useful-and-how-to-use-them-effectively/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.7",
+          "id": "forward-declarations",
+          "title": "Forward declarations and definitions",
+          "ruTitle": "Форвардные декларации и определения",
+          "url": "https://www.learncpp.com/cpp-tutorial/forward-declarations/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.8",
+          "id": "programs-with-multiple-code-files",
+          "title": "Programs with multiple code files",
+          "ruTitle": "Программы с несколькими файлами кода",
+          "url": "https://www.learncpp.com/cpp-tutorial/programs-with-multiple-code-files/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.9",
+          "id": "naming-collisions-and-an-introduction-to-namespaces",
+          "title": "Naming collisions and an introduction to namespaces",
+          "ruTitle": "Коллизии имен и введение в пространства имен",
+          "url": "https://www.learncpp.com/cpp-tutorial/naming-collisions-and-an-introduction-to-namespaces/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.10",
+          "id": "introduction-to-the-preprocessor",
+          "title": "Introduction to the preprocessor",
+          "ruTitle": "Знакомство с препроцессором",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-the-preprocessor/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.11",
+          "id": "header-files",
+          "title": "Header files",
+          "ruTitle": "Заголовочные файлы",
+          "url": "https://www.learncpp.com/cpp-tutorial/header-files/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.12",
+          "id": "header-guards",
+          "title": "Header guards",
+          "ruTitle": "Заголовок охранников",
+          "url": "https://www.learncpp.com/cpp-tutorial/header-guards/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.13",
+          "id": "how-to-design-your-first-programs",
+          "title": "How to design your first programs",
+          "ruTitle": "Как разработать свои первые программы",
+          "url": "https://www.learncpp.com/cpp-tutorial/how-to-design-your-first-programs/",
+          "status": "В переводе"
+        },
+        {
+          "number": "2.x",
+          "id": "chapter-2-summary-and-quiz",
+          "title": "Chapter 2 summary and quiz",
+          "ruTitle": "Краткое содержание главы 2 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-2-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Debugging C++ Programs",
+      "ruTitle": "Отладка программ на C++",
+      "lessons": [
+        {
+          "number": "3.1",
+          "id": "syntax-and-semantic-errors",
+          "title": "Syntax and semantic errors",
+          "ruTitle": "Синтаксические и смысловые ошибки",
+          "url": "https://www.learncpp.com/cpp-tutorial/syntax-and-semantic-errors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.2",
+          "id": "the-debugging-process",
+          "title": "The debugging process",
+          "ruTitle": "Процесс отладки",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-debugging-process/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.3",
+          "id": "a-strategy-for-debugging",
+          "title": "A strategy for debugging",
+          "ruTitle": "Стратегия отладки",
+          "url": "https://www.learncpp.com/cpp-tutorial/a-strategy-for-debugging/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.4",
+          "id": "basic-debugging-tactics",
+          "title": "Basic debugging tactics",
+          "ruTitle": "Основная тактика отладки",
+          "url": "https://www.learncpp.com/cpp-tutorial/basic-debugging-tactics/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.5",
+          "id": "more-debugging-tactics",
+          "title": "More debugging tactics",
+          "ruTitle": "Дополнительные тактики отладки",
+          "url": "https://www.learncpp.com/cpp-tutorial/more-debugging-tactics/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.6",
+          "id": "using-an-integrated-debugger-stepping",
+          "title": "Using an integrated debugger: Stepping",
+          "ruTitle": "Использование встроенного отладчика: пошаговое выполнение",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-an-integrated-debugger-stepping/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.7",
+          "id": "using-an-integrated-debugger-running-and-breakpoints",
+          "title": "Using an integrated debugger: Running and breakpoints",
+          "ruTitle": "Использование встроенного отладчика: запуск и точки останова",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-an-integrated-debugger-running-and-breakpoints/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.8",
+          "id": "using-an-integrated-debugger-watching-variables",
+          "title": "Using an integrated debugger: Watching variables",
+          "ruTitle": "Использование встроенного отладчика: наблюдение за переменными",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-an-integrated-debugger-watching-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.9",
+          "id": "using-an-integrated-debugger-the-call-stack",
+          "title": "Using an integrated debugger: The call stack",
+          "ruTitle": "Использование встроенного отладчика: стек вызовов",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-an-integrated-debugger-the-call-stack/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.10",
+          "id": "finding-issues-before-they-become-problems",
+          "title": "Finding issues before they become problems",
+          "ruTitle": "Находить проблемы до того, как они станут проблемами",
+          "url": "https://www.learncpp.com/cpp-tutorial/finding-issues-before-they-become-problems/",
+          "status": "В переводе"
+        },
+        {
+          "number": "3.x",
+          "id": "chapter-3-summary-and-quiz",
+          "title": "Chapter 3 summary and quiz",
+          "ruTitle": "Краткое содержание главы 3 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-3-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "Fundamental Data Types",
+      "ruTitle": "Основные типы данных",
+      "lessons": [
+        {
+          "number": "4.1",
+          "id": "introduction-to-fundamental-data-types",
+          "title": "Introduction to fundamental data types",
+          "ruTitle": "Введение в фундаментальные типы данных",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-fundamental-data-types/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.2",
+          "id": "void",
+          "title": "Void",
+          "ruTitle": "Пустота",
+          "url": "https://www.learncpp.com/cpp-tutorial/void/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.3",
+          "id": "object-sizes-and-the-sizeof-operator",
+          "title": "Object sizes and the sizeof operator",
+          "ruTitle": "Размеры объекта и оператор sizeof",
+          "url": "https://www.learncpp.com/cpp-tutorial/object-sizes-and-the-sizeof-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.4",
+          "id": "signed-integers",
+          "title": "Signed integers",
+          "ruTitle": "Целые числа со знаком",
+          "url": "https://www.learncpp.com/cpp-tutorial/signed-integers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.5",
+          "id": "unsigned-integers-and-why-to-avoid-them",
+          "title": "Unsigned integers, and why to avoid them",
+          "ruTitle": "Беззнаковые целые числа и почему их следует избегать",
+          "url": "https://www.learncpp.com/cpp-tutorial/unsigned-integers-and-why-to-avoid-them/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.6",
+          "id": "fixed-width-integers-and-size-t",
+          "title": "Fixed-width integers and size_t",
+          "ruTitle": "Целые числа фиксированной ширины и size_t",
+          "url": "https://www.learncpp.com/cpp-tutorial/fixed-width-integers-and-size-t/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.7",
+          "id": "introduction-to-scientific-notation",
+          "title": "Introduction to scientific notation",
+          "ruTitle": "Введение в научную нотацию",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-scientific-notation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.8",
+          "id": "floating-point-numbers",
+          "title": "Floating point numbers",
+          "ruTitle": "Числа с плавающей запятой",
+          "url": "https://www.learncpp.com/cpp-tutorial/floating-point-numbers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.9",
+          "id": "boolean-values",
+          "title": "Boolean values",
+          "ruTitle": "Логические значения",
+          "url": "https://www.learncpp.com/cpp-tutorial/boolean-values/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.10",
+          "id": "introduction-to-if-statements",
+          "title": "Introduction to if statements",
+          "ruTitle": "Введение в операторы if",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.11",
+          "id": "chars",
+          "title": "Chars",
+          "ruTitle": "символы",
+          "url": "https://www.learncpp.com/cpp-tutorial/chars/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.12",
+          "id": "introduction-to-type-conversion-and-static_cast",
+          "title": "Introduction to type conversion and static_cast",
+          "ruTitle": "Введение в преобразование типов и static_cast",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-type-conversion-and-static_cast/",
+          "status": "В переводе"
+        },
+        {
+          "number": "4.x",
+          "id": "chapter-4-summary-and-quiz",
+          "title": "Chapter 4 summary and quiz",
+          "ruTitle": "Краткое содержание главы 4 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-4-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "Constants and Strings",
+      "ruTitle": "Константы и строки",
+      "lessons": [
+        {
+          "number": "5.1",
+          "id": "constant-variables-named-constants",
+          "title": "Constant variables (named constants)",
+          "ruTitle": "Постоянные переменные (именованные константы)",
+          "url": "https://www.learncpp.com/cpp-tutorial/constant-variables-named-constants/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.2",
+          "id": "literals",
+          "title": "Literals",
+          "ruTitle": "Литералы",
+          "url": "https://www.learncpp.com/cpp-tutorial/literals/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.3",
+          "id": "numeral-systems-decimal-binary-hexadecimal-and-octal",
+          "title": "Numeral systems (decimal, binary, hexadecimal, and octal)",
+          "ruTitle": "Системы счисления (десятичная, двоичная, шестнадцатеричная и восьмеричная)",
+          "url": "https://www.learncpp.com/cpp-tutorial/numeral-systems-decimal-binary-hexadecimal-and-octal/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.4",
+          "id": "the-as-if-rule-and-compile-time-optimization",
+          "title": "The as-if rule and compile-time optimization",
+          "ruTitle": "Правило «как если бы» и оптимизация времени компиляции",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-as-if-rule-and-compile-time-optimization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.5",
+          "id": "constant-expressions",
+          "title": "Constant expressions",
+          "ruTitle": "Постоянные выражения",
+          "url": "https://www.learncpp.com/cpp-tutorial/constant-expressions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.6",
+          "id": "constexpr-variables",
+          "title": "Constexpr variables",
+          "ruTitle": "Переменные Constexpr",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.7",
+          "id": "introduction-to-stdstring",
+          "title": "Introduction to std::string",
+          "ruTitle": "Введение в std::string",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.8",
+          "id": "introduction-to-stdstring_view",
+          "title": "Introduction to std::string_view",
+          "ruTitle": "Введение в std::string_view",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring_view/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.9",
+          "id": "stdstring_view-part-2",
+          "title": "std::string_view (part 2)",
+          "ruTitle": "std::string_view (часть 2)",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring_view-part-2/",
+          "status": "В переводе"
+        },
+        {
+          "number": "5.x",
+          "id": "chapter-5-summary-and-quiz",
+          "title": "Chapter 5 summary and quiz",
+          "ruTitle": "Краткое содержание главы 5 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-5-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "Operators",
+      "ruTitle": "Операторы",
+      "lessons": [
+        {
+          "number": "6.1",
+          "id": "operator-precedence-and-associativity",
+          "title": "Operator precedence and associativity",
+          "ruTitle": "Приоритет операторов и ассоциативность",
+          "url": "https://www.learncpp.com/cpp-tutorial/operator-precedence-and-associativity/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.2",
+          "id": "arithmetic-operators",
+          "title": "Arithmetic operators",
+          "ruTitle": "Арифметические операторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/arithmetic-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.3",
+          "id": "remainder-and-exponentiation",
+          "title": "Remainder and Exponentiation",
+          "ruTitle": "Остаток и возведение в степень",
+          "url": "https://www.learncpp.com/cpp-tutorial/remainder-and-exponentiation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.4",
+          "id": "increment-decrement-operators-and-side-effects",
+          "title": "Increment/decrement operators, and side effects",
+          "ruTitle": "Операторы увеличения/уменьшения и побочные эффекты",
+          "url": "https://www.learncpp.com/cpp-tutorial/increment-decrement-operators-and-side-effects/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.5",
+          "id": "the-comma-operator",
+          "title": "The comma operator",
+          "ruTitle": "Оператор запятая",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-comma-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.6",
+          "id": "the-conditional-operator",
+          "title": "The conditional operator",
+          "ruTitle": "Условный оператор",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-conditional-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.7",
+          "id": "relational-operators-and-floating-point-comparisons",
+          "title": "Relational operators and floating point comparisons",
+          "ruTitle": "Операторы отношения и сравнения с плавающей запятой",
+          "url": "https://www.learncpp.com/cpp-tutorial/relational-operators-and-floating-point-comparisons/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.8",
+          "id": "logical-operators",
+          "title": "Logical operators",
+          "ruTitle": "Логические операторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/logical-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "6.x",
+          "id": "chapter-6-summary-and-quiz",
+          "title": "Chapter 6 summary and quiz",
+          "ruTitle": "Краткое содержание главы 6 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-6-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "O",
+      "title": "Bit Manipulation (optional chapter)",
+      "ruTitle": "Битовые манипуляции (дополнительная глава)",
+      "lessons": [
+        {
+          "number": "O.1",
+          "id": "bit-flags-and-bit-manipulation-via-stdbitset",
+          "title": "Bit flags and bit manipulation via std::bitset",
+          "ruTitle": "Битовые флаги и манипуляции с битами через std::bitset",
+          "url": "https://www.learncpp.com/cpp-tutorial/bit-flags-and-bit-manipulation-via-stdbitset/",
+          "status": "В переводе"
+        },
+        {
+          "number": "O.2",
+          "id": "bitwise-operators",
+          "title": "Bitwise operators",
+          "ruTitle": "Побитовые операторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/bitwise-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "O.3",
+          "id": "bit-manipulation-with-bitwise-operators-and-bit-masks",
+          "title": "Bit manipulation with bitwise operators and bit masks",
+          "ruTitle": "Битовые манипуляции с помощью побитовых операторов и битовых масок.",
+          "url": "https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-and-bit-masks/",
+          "status": "В переводе"
+        },
+        {
+          "number": "O.4",
+          "id": "converting-integers-between-binary-and-decimal-representation",
+          "title": "Converting integers between binary and decimal representation",
+          "ruTitle": "Преобразование целых чисел между двоичным и десятичным представлением",
+          "url": "https://www.learncpp.com/cpp-tutorial/converting-integers-between-binary-and-decimal-representation/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "Scope, Duration, and Linkage",
+      "ruTitle": "Объем, продолжительность и связь",
+      "lessons": [
+        {
+          "number": "7.1",
+          "id": "compound-statements-blocks",
+          "title": "Compound statements (blocks)",
+          "ruTitle": "Составные операторы (блоки)",
+          "url": "https://www.learncpp.com/cpp-tutorial/compound-statements-blocks/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.2",
+          "id": "user-defined-namespaces-and-the-scope-resolution-operator",
+          "title": "User-defined namespaces and the scope resolution operator",
+          "ruTitle": "Пользовательские пространства имен и оператор разрешения области",
+          "url": "https://www.learncpp.com/cpp-tutorial/user-defined-namespaces-and-the-scope-resolution-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.3",
+          "id": "local-variables",
+          "title": "Local variables",
+          "ruTitle": "Локальные переменные",
+          "url": "https://www.learncpp.com/cpp-tutorial/local-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.4",
+          "id": "introduction-to-global-variables",
+          "title": "Introduction to global variables",
+          "ruTitle": "Введение в глобальные переменные",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-global-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.5",
+          "id": "variable-shadowing-name-hiding",
+          "title": "Variable shadowing (name hiding)",
+          "ruTitle": "Переменное затенение (скрытие имени)",
+          "url": "https://www.learncpp.com/cpp-tutorial/variable-shadowing-name-hiding/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.6",
+          "id": "internal-linkage",
+          "title": "Internal linkage",
+          "ruTitle": "Внутренняя связь",
+          "url": "https://www.learncpp.com/cpp-tutorial/internal-linkage/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.7",
+          "id": "external-linkage-and-variable-forward-declarations",
+          "title": "External linkage and variable forward declarations",
+          "ruTitle": "Внешняя связь и форвардные объявления переменных",
+          "url": "https://www.learncpp.com/cpp-tutorial/external-linkage-and-variable-forward-declarations/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.8",
+          "id": "why-non-const-global-variables-are-evil",
+          "title": "Why (non-const) global variables are evil",
+          "ruTitle": "Почему (неконстантные) глобальные переменные — это зло",
+          "url": "https://www.learncpp.com/cpp-tutorial/why-non-const-global-variables-are-evil/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.9",
+          "id": "inline-functions-and-variables",
+          "title": "Inline functions and variables",
+          "ruTitle": "Встроенные функции и переменные",
+          "url": "https://www.learncpp.com/cpp-tutorial/inline-functions-and-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.10",
+          "id": "sharing-global-constants-across-multiple-files-using-inline-variables",
+          "title": "Sharing global constants across multiple files (using inline variables)",
+          "ruTitle": "Совместное использование глобальных констант в нескольких файлах (с использованием встроенных переменных)",
+          "url": "https://www.learncpp.com/cpp-tutorial/sharing-global-constants-across-multiple-files-using-inline-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.11",
+          "id": "static-local-variables",
+          "title": "Static local variables",
+          "ruTitle": "Статические локальные переменные",
+          "url": "https://www.learncpp.com/cpp-tutorial/static-local-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.12",
+          "id": "scope-duration-and-linkage-summary",
+          "title": "Scope, duration, and linkage summary",
+          "ruTitle": "Сводная информация о сфере охвата, продолжительности и связях",
+          "url": "https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.13",
+          "id": "using-declarations-and-using-directives",
+          "title": "Using declarations and using directives",
+          "ruTitle": "Использование объявлений и использование директив",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-declarations-and-using-directives/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.14",
+          "id": "unnamed-and-inline-namespaces",
+          "title": "Unnamed and inline namespaces",
+          "ruTitle": "Безымянные и встроенные пространства имен",
+          "url": "https://www.learncpp.com/cpp-tutorial/unnamed-and-inline-namespaces/",
+          "status": "В переводе"
+        },
+        {
+          "number": "7.x",
+          "id": "chapter-7-summary-and-quiz",
+          "title": "Chapter 7 summary and quiz",
+          "ruTitle": "Краткое содержание главы 7 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-7-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "Control Flow",
+      "ruTitle": "Поток управления",
+      "lessons": [
+        {
+          "number": "8.1",
+          "id": "control-flow-introduction",
+          "title": "Control flow introduction",
+          "ruTitle": "Введение в поток управления",
+          "url": "https://www.learncpp.com/cpp-tutorial/control-flow-introduction/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.2",
+          "id": "if-statements-and-blocks",
+          "title": "If statements and blocks",
+          "ruTitle": "Операторы if и блоки",
+          "url": "https://www.learncpp.com/cpp-tutorial/if-statements-and-blocks/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.3",
+          "id": "common-if-statement-problems",
+          "title": "Common if statement problems",
+          "ruTitle": "Распространенные проблемы с оператором if",
+          "url": "https://www.learncpp.com/cpp-tutorial/common-if-statement-problems/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.4",
+          "id": "constexpr-if-statements",
+          "title": "Constexpr if statements",
+          "ruTitle": "Constexpr, если операторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-if-statements/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.5",
+          "id": "switch-statement-basics",
+          "title": "Switch statement basics",
+          "ruTitle": "Основы оператора Switch",
+          "url": "https://www.learncpp.com/cpp-tutorial/switch-statement-basics/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.6",
+          "id": "switch-fallthrough-and-scoping",
+          "title": "Switch fallthrough and scoping",
+          "ruTitle": "Провал переключения и область видимости",
+          "url": "https://www.learncpp.com/cpp-tutorial/switch-fallthrough-and-scoping/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.7",
+          "id": "goto-statements",
+          "title": "Goto statements",
+          "ruTitle": "Операторы перехода",
+          "url": "https://www.learncpp.com/cpp-tutorial/goto-statements/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.8",
+          "id": "introduction-to-loops-and-while-statements",
+          "title": "Introduction to loops and while statements",
+          "ruTitle": "Введение в циклы и операторы while",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-loops-and-while-statements/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.9",
+          "id": "do-while-statements",
+          "title": "Do while statements",
+          "ruTitle": "Делайте операторы while",
+          "url": "https://www.learncpp.com/cpp-tutorial/do-while-statements/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.10",
+          "id": "for-statements",
+          "title": "For statements",
+          "ruTitle": "Для заявлений",
+          "url": "https://www.learncpp.com/cpp-tutorial/for-statements/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.11",
+          "id": "break-and-continue",
+          "title": "Break and continue",
+          "ruTitle": "Перерыв и продолжение",
+          "url": "https://www.learncpp.com/cpp-tutorial/break-and-continue/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.12",
+          "id": "halts-exiting-your-program-early",
+          "title": "Halts (exiting your program early)",
+          "ruTitle": "Остановки (ранний выход из программы)",
+          "url": "https://www.learncpp.com/cpp-tutorial/halts-exiting-your-program-early/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.13",
+          "id": "introduction-to-random-number-generation",
+          "title": "Introduction to random number generation",
+          "ruTitle": "Введение в генерацию случайных чисел",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-random-number-generation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.14",
+          "id": "generating-random-numbers-using-mersenne-twister",
+          "title": "Generating random numbers using Mersenne Twister",
+          "ruTitle": "Генерация случайных чисел с помощью Mersenne Twister",
+          "url": "https://www.learncpp.com/cpp-tutorial/generating-random-numbers-using-mersenne-twister/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.15",
+          "id": "global-random-numbers-random-h",
+          "title": "Global random numbers (Random.h)",
+          "ruTitle": "Глобальные случайные числа (Random.h)",
+          "url": "https://www.learncpp.com/cpp-tutorial/global-random-numbers-random-h/",
+          "status": "В переводе"
+        },
+        {
+          "number": "8.x",
+          "id": "chapter-8-summary-and-quiz",
+          "title": "Chapter 8 summary and quiz",
+          "ruTitle": "Краткое содержание главы 8 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-8-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "Error Detection and Handling",
+      "ruTitle": "Обнаружение и обработка ошибок",
+      "lessons": [
+        {
+          "number": "9.1",
+          "id": "introduction-to-testing-your-code",
+          "title": "Introduction to testing your code",
+          "ruTitle": "Введение в тестирование вашего кода",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-testing-your-code/",
+          "status": "В переводе"
+        },
+        {
+          "number": "9.2",
+          "id": "code-coverage",
+          "title": "Code coverage",
+          "ruTitle": "Покрытие кода",
+          "url": "https://www.learncpp.com/cpp-tutorial/code-coverage/",
+          "status": "В переводе"
+        },
+        {
+          "number": "9.3",
+          "id": "common-semantic-errors-in-c",
+          "title": "Common semantic errors in C++",
+          "ruTitle": "Распространенные семантические ошибки в C++",
+          "url": "https://www.learncpp.com/cpp-tutorial/common-semantic-errors-in-c/",
+          "status": "В переводе"
+        },
+        {
+          "number": "9.4",
+          "id": "detecting-and-handling-errors",
+          "title": "Detecting and handling errors",
+          "ruTitle": "Обнаружение и обработка ошибок",
+          "url": "https://www.learncpp.com/cpp-tutorial/detecting-and-handling-errors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "9.5",
+          "id": "stdcin-and-handling-invalid-input",
+          "title": "std::cin and handling invalid input",
+          "ruTitle": "std::cin и обработка недопустимого ввода",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdcin-and-handling-invalid-input/",
+          "status": "В переводе"
+        },
+        {
+          "number": "9.6",
+          "id": "assert-and-static_assert",
+          "title": "Assert and static_assert",
+          "ruTitle": "Утверждение и static_assert",
+          "url": "https://www.learncpp.com/cpp-tutorial/assert-and-static_assert/",
+          "status": "В переводе"
+        },
+        {
+          "number": "9.x",
+          "id": "chapter-9-summary-and-quiz",
+          "title": "Chapter 9 summary and quiz",
+          "ruTitle": "Краткое содержание главы 9 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-9-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "title": "Type Conversion, Type Aliases, and Type Deduction",
+      "ruTitle": "Преобразование типов, псевдонимы типов и выведение типов",
+      "lessons": [
+        {
+          "number": "10.1",
+          "id": "implicit-type-conversion",
+          "title": "Implicit type conversion",
+          "ruTitle": "Неявное преобразование типов",
+          "url": "https://www.learncpp.com/cpp-tutorial/implicit-type-conversion/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.2",
+          "id": "floating-point-and-integral-promotion",
+          "title": "Floating-point and integral promotion",
+          "ruTitle": "Плавающая запятая и целочисленное продвижение",
+          "url": "https://www.learncpp.com/cpp-tutorial/floating-point-and-integral-promotion/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.3",
+          "id": "numeric-conversions",
+          "title": "Numeric conversions",
+          "ruTitle": "Числовые преобразования",
+          "url": "https://www.learncpp.com/cpp-tutorial/numeric-conversions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.4",
+          "id": "narrowing-conversions-list-initialization-and-constexpr-initializers",
+          "title": "Narrowing conversions, list initialization, and constexpr initializers",
+          "ruTitle": "Сужение преобразований, инициализация списка и инициализаторы constexpr",
+          "url": "https://www.learncpp.com/cpp-tutorial/narrowing-conversions-list-initialization-and-constexpr-initializers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.5",
+          "id": "arithmetic-conversions",
+          "title": "Arithmetic conversions",
+          "ruTitle": "Арифметические преобразования",
+          "url": "https://www.learncpp.com/cpp-tutorial/arithmetic-conversions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.6",
+          "id": "explicit-type-conversion-casting-and-static-cast",
+          "title": "Explicit type conversion (casting) and static_cast",
+          "ruTitle": "Явное преобразование типов (приведение типов) и static_cast",
+          "url": "https://www.learncpp.com/cpp-tutorial/explicit-type-conversion-casting-and-static-cast/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.7",
+          "id": "typedefs-and-type-aliases",
+          "title": "Typedefs and type aliases",
+          "ruTitle": "Определения типов и псевдонимы типов",
+          "url": "https://www.learncpp.com/cpp-tutorial/typedefs-and-type-aliases/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.8",
+          "id": "type-deduction-for-objects-using-the-auto-keyword",
+          "title": "Type deduction for objects using the auto keyword",
+          "ruTitle": "Введите вывод для объектов, используя ключевое слово auto.",
+          "url": "https://www.learncpp.com/cpp-tutorial/type-deduction-for-objects-using-the-auto-keyword/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.9",
+          "id": "type-deduction-for-functions",
+          "title": "Type deduction for functions",
+          "ruTitle": "Вывод типа для функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/type-deduction-for-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "10.x",
+          "id": "chapter-10-summary-and-quiz",
+          "title": "Chapter 10 summary and quiz",
+          "ruTitle": "Краткое содержание главы 10 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-10-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "title": "Function Overloading and Function Templates",
+      "ruTitle": "Перегрузка функций и шаблоны функций",
+      "lessons": [
+        {
+          "number": "11.1",
+          "id": "introduction-to-function-overloading",
+          "title": "Introduction to function overloading",
+          "ruTitle": "Введение в перегрузку функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-function-overloading/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.2",
+          "id": "function-overload-differentiation",
+          "title": "Function overload differentiation",
+          "ruTitle": "Дифференциация перегрузки функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-overload-differentiation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.3",
+          "id": "function-overload-resolution-and-ambiguous-matches",
+          "title": "Function overload resolution and ambiguous matches",
+          "ruTitle": "Разрешение перегрузки функции и неоднозначные совпадения",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-overload-resolution-and-ambiguous-matches/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.4",
+          "id": "deleting-functions",
+          "title": "Deleting functions",
+          "ruTitle": "Удаление функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/deleting-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.5",
+          "id": "default-arguments",
+          "title": "Default arguments",
+          "ruTitle": "Аргументы по умолчанию",
+          "url": "https://www.learncpp.com/cpp-tutorial/default-arguments/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.6",
+          "id": "function-templates",
+          "title": "Function templates",
+          "ruTitle": "Шаблоны функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-templates/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.7",
+          "id": "function-template-instantiation",
+          "title": "Function template instantiation",
+          "ruTitle": "Создание экземпляра шаблона функции",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-template-instantiation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.8",
+          "id": "function-templates-with-multiple-template-types",
+          "title": "Function templates with multiple template types",
+          "ruTitle": "Шаблоны функций с несколькими типами шаблонов",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-templates-with-multiple-template-types/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.9",
+          "id": "non-type-template-parameters",
+          "title": "Non-type template parameters",
+          "ruTitle": "Параметры шаблона, не относящиеся к типу",
+          "url": "https://www.learncpp.com/cpp-tutorial/non-type-template-parameters/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.10",
+          "id": "using-function-templates-in-multiple-files",
+          "title": "Using function templates in multiple files",
+          "ruTitle": "Использование шаблонов функций в нескольких файлах",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-function-templates-in-multiple-files/",
+          "status": "В переводе"
+        },
+        {
+          "number": "11.x",
+          "id": "chapter-11-summary-and-quiz",
+          "title": "Chapter 11 summary and quiz",
+          "ruTitle": "Краткое содержание главы 11 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-11-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "F",
+      "title": "Constexpr functions",
+      "ruTitle": "Функции Constexpr",
+      "lessons": [
+        {
+          "number": "F.1",
+          "id": "constexpr-functions",
+          "title": "Constexpr functions",
+          "ruTitle": "Функции Constexpr",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "F.2",
+          "id": "constexpr-functions-part-2",
+          "title": "Constexpr functions (part 2)",
+          "ruTitle": "Функции Constexpr (часть 2)",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-2/",
+          "status": "В переводе"
+        },
+        {
+          "number": "F.3",
+          "id": "constexpr-functions-part-3-and-consteval",
+          "title": "Constexpr functions (part 3) and consteval",
+          "ruTitle": "Функции Constexpr (часть 3) и consteval",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-3-and-consteval/",
+          "status": "В переводе"
+        },
+        {
+          "number": "F.4",
+          "id": "constexpr-functions-part-4",
+          "title": "Constexpr functions (part 4)",
+          "ruTitle": "Функции Constexpr (часть 4)",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-functions-part-4/",
+          "status": "В переводе"
+        },
+        {
+          "number": "F.X",
+          "id": "chapter-f-summary-and-quiz",
+          "title": "Chapter F summary and quiz",
+          "ruTitle": "Краткое содержание главы F и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-f-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "title": "Compound Types: References and Pointers",
+      "ruTitle": "Составные типы: ссылки и указатели",
+      "lessons": [
+        {
+          "number": "12.1",
+          "id": "introduction-to-compound-data-types",
+          "title": "Introduction to compound data types",
+          "ruTitle": "Введение в составные типы данных",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-compound-data-types/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.2",
+          "id": "value-categories-lvalues-and-rvalues",
+          "title": "Value categories (lvalues and rvalues)",
+          "ruTitle": "Категории значений (lvalues ​​и rvalues)",
+          "url": "https://www.learncpp.com/cpp-tutorial/value-categories-lvalues-and-rvalues/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.3",
+          "id": "lvalue-references",
+          "title": "Lvalue references",
+          "ruTitle": "Ссылки на Lvalue",
+          "url": "https://www.learncpp.com/cpp-tutorial/lvalue-references/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.4",
+          "id": "lvalue-references-to-const",
+          "title": "Lvalue references to const",
+          "ruTitle": "Lvalue ссылается на const",
+          "url": "https://www.learncpp.com/cpp-tutorial/lvalue-references-to-const/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.5",
+          "id": "pass-by-lvalue-reference",
+          "title": "Pass by lvalue reference",
+          "ruTitle": "Передача по ссылке lvalue",
+          "url": "https://www.learncpp.com/cpp-tutorial/pass-by-lvalue-reference/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.6",
+          "id": "pass-by-const-lvalue-reference",
+          "title": "Pass by const lvalue reference",
+          "ruTitle": "Передача по ссылке const lvalue",
+          "url": "https://www.learncpp.com/cpp-tutorial/pass-by-const-lvalue-reference/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.7",
+          "id": "introduction-to-pointers",
+          "title": "Introduction to pointers",
+          "ruTitle": "Знакомство с указателями",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.8",
+          "id": "null-pointers",
+          "title": "Null pointers",
+          "ruTitle": "Нулевые указатели",
+          "url": "https://www.learncpp.com/cpp-tutorial/null-pointers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.9",
+          "id": "pointers-and-const",
+          "title": "Pointers and const",
+          "ruTitle": "Указатели и константы",
+          "url": "https://www.learncpp.com/cpp-tutorial/pointers-and-const/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.10",
+          "id": "pass-by-address",
+          "title": "Pass by address",
+          "ruTitle": "Пройти по адресу",
+          "url": "https://www.learncpp.com/cpp-tutorial/pass-by-address/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.11",
+          "id": "pass-by-address-part-2",
+          "title": "Pass by address (part 2)",
+          "ruTitle": "Передача по адресу (часть 2)",
+          "url": "https://www.learncpp.com/cpp-tutorial/pass-by-address-part-2/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.12",
+          "id": "return-by-reference-and-return-by-address",
+          "title": "Return by reference and return by address",
+          "ruTitle": "Возврат по ссылке и возврат по адресу",
+          "url": "https://www.learncpp.com/cpp-tutorial/return-by-reference-and-return-by-address/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.13",
+          "id": "in-and-out-parameters",
+          "title": "In and out parameters",
+          "ruTitle": "Входные и выходные параметры",
+          "url": "https://www.learncpp.com/cpp-tutorial/in-and-out-parameters/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.14",
+          "id": "type-deduction-with-pointers-references-and-const",
+          "title": "Type deduction with pointers, references, and const",
+          "ruTitle": "Вывод типов с помощью указателей, ссылок и констант",
+          "url": "https://www.learncpp.com/cpp-tutorial/type-deduction-with-pointers-references-and-const/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.15",
+          "id": "stdoptional",
+          "title": "std::optional",
+          "ruTitle": "станд::необязательно",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdoptional/",
+          "status": "В переводе"
+        },
+        {
+          "number": "12.x",
+          "id": "chapter-12-summary-and-quiz",
+          "title": "Chapter 12 summary and quiz",
+          "ruTitle": "Краткое содержание главы 12 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-12-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "title": "Compound Types: Enums and Structs",
+      "ruTitle": "Составные типы: перечисления и структуры",
+      "lessons": [
+        {
+          "number": "13.1",
+          "id": "introduction-to-program-defined-user-defined-types",
+          "title": "Introduction to program-defined (user-defined) types",
+          "ruTitle": "Введение в программно-определяемые (определяемые пользователем) типы",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-program-defined-user-defined-types/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.2",
+          "id": "unscoped-enumerations",
+          "title": "Unscoped enumerations",
+          "ruTitle": "Перечисления без области действия",
+          "url": "https://www.learncpp.com/cpp-tutorial/unscoped-enumerations/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.3",
+          "id": "unscoped-enumerator-integral-conversions",
+          "title": "Unscoped enumerator integral conversions",
+          "ruTitle": "Целочисленные преобразования перечислителя без области видимости",
+          "url": "https://www.learncpp.com/cpp-tutorial/unscoped-enumerator-integral-conversions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.4",
+          "id": "converting-an-enumeration-to-and-from-a-string",
+          "title": "Converting an enumeration to and from a string",
+          "ruTitle": "Преобразование перечисления в строку и обратно",
+          "url": "https://www.learncpp.com/cpp-tutorial/converting-an-enumeration-to-and-from-a-string/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.5",
+          "id": "introduction-to-overloading-the-i-o-operators",
+          "title": "Introduction to overloading the I/O operators",
+          "ruTitle": "Введение в перегрузку операторов ввода-вывода",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-overloading-the-i-o-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.6",
+          "id": "scoped-enumerations-enum-classes",
+          "title": "Scoped enumerations (enum classes)",
+          "ruTitle": "Перечисления с ограниченной областью действия (классы перечислений)",
+          "url": "https://www.learncpp.com/cpp-tutorial/scoped-enumerations-enum-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.7",
+          "id": "introduction-to-structs-members-and-member-selection",
+          "title": "Introduction to structs, members, and member selection",
+          "ruTitle": "Введение в структуры, члены и выбор членов",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-structs-members-and-member-selection/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.8",
+          "id": "struct-aggregate-initialization",
+          "title": "Struct aggregate initialization",
+          "ruTitle": "Инициализация агрегата структуры",
+          "url": "https://www.learncpp.com/cpp-tutorial/struct-aggregate-initialization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.9",
+          "id": "default-member-initialization",
+          "title": "Default member initialization",
+          "ruTitle": "Инициализация члена по умолчанию",
+          "url": "https://www.learncpp.com/cpp-tutorial/default-member-initialization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.10",
+          "id": "passing-and-returning-structs",
+          "title": "Passing and returning structs",
+          "ruTitle": "Передача и возврат структур",
+          "url": "https://www.learncpp.com/cpp-tutorial/passing-and-returning-structs/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.11",
+          "id": "struct-miscellany",
+          "title": "Struct miscellany",
+          "ruTitle": "Структурное разнообразие",
+          "url": "https://www.learncpp.com/cpp-tutorial/struct-miscellany/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.12",
+          "id": "member-selection-with-pointers-and-references",
+          "title": "Member selection with pointers and references",
+          "ruTitle": "Выбор членов с помощью указателей и ссылок",
+          "url": "https://www.learncpp.com/cpp-tutorial/member-selection-with-pointers-and-references/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.13",
+          "id": "class-templates",
+          "title": "Class templates",
+          "ruTitle": "Шаблоны классов",
+          "url": "https://www.learncpp.com/cpp-tutorial/class-templates/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.14",
+          "id": "class-template-argument-deduction-ctad-and-deduction-guides",
+          "title": "Class template argument deduction (CTAD) and deduction guides",
+          "ruTitle": "Вывод аргументов шаблона класса (CTAD) и руководства по выводу",
+          "url": "https://www.learncpp.com/cpp-tutorial/class-template-argument-deduction-ctad-and-deduction-guides/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.15",
+          "id": "alias-templates",
+          "title": "Alias templates",
+          "ruTitle": "Шаблоны псевдонимов",
+          "url": "https://www.learncpp.com/cpp-tutorial/alias-templates/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.x",
+          "id": "chapter-13-summary-and-quiz",
+          "title": "Chapter 13 summary and quiz",
+          "ruTitle": "Краткое содержание главы 13 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-13-summary-and-quiz/",
+          "status": "В переводе"
+        },
+        {
+          "number": "13.y",
+          "id": "using-a-language-reference",
+          "title": "Using a language reference",
+          "ruTitle": "Использование справочника языка",
+          "url": "https://www.learncpp.com/cpp-tutorial/using-a-language-reference/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "title": "Introduction to Classes",
+      "ruTitle": "Введение в классы",
+      "lessons": [
+        {
+          "number": "14.1",
+          "id": "introduction-to-object-oriented-programming",
+          "title": "Introduction to object-oriented programming",
+          "ruTitle": "Введение в объектно-ориентированное программирование",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-object-oriented-programming/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.2",
+          "id": "introduction-to-classes",
+          "title": "Introduction to classes",
+          "ruTitle": "Знакомство с классами",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.3",
+          "id": "member-functions",
+          "title": "Member functions",
+          "ruTitle": "Функции-члены",
+          "url": "https://www.learncpp.com/cpp-tutorial/member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.4",
+          "id": "const-class-objects-and-const-member-functions",
+          "title": "Const class objects and const member functions",
+          "ruTitle": "Константные объекты класса и константные функции-члены",
+          "url": "https://www.learncpp.com/cpp-tutorial/const-class-objects-and-const-member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.5",
+          "id": "public-and-private-members-and-access-specifiers",
+          "title": "Public and private members and access specifiers",
+          "ruTitle": "Открытые и частные члены и спецификаторы доступа",
+          "url": "https://www.learncpp.com/cpp-tutorial/public-and-private-members-and-access-specifiers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.6",
+          "id": "access-functions",
+          "title": "Access functions",
+          "ruTitle": "Функции доступа",
+          "url": "https://www.learncpp.com/cpp-tutorial/access-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.7",
+          "id": "member-functions-returning-references-to-data-members",
+          "title": "Member functions returning references to data members",
+          "ruTitle": "Функции-члены, возвращающие ссылки на члены данных",
+          "url": "https://www.learncpp.com/cpp-tutorial/member-functions-returning-references-to-data-members/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.8",
+          "id": "the-benefits-of-data-hiding-encapsulation",
+          "title": "The benefits of data hiding (encapsulation)",
+          "ruTitle": "Преимущества сокрытия данных (инкапсуляции)",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-benefits-of-data-hiding-encapsulation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.9",
+          "id": "introduction-to-constructors",
+          "title": "Introduction to constructors",
+          "ruTitle": "Знакомство с конструкторами",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-constructors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.10",
+          "id": "constructor-member-initializer-lists",
+          "title": "Constructor member initializer lists",
+          "ruTitle": "Списки инициализаторов членов конструктора",
+          "url": "https://www.learncpp.com/cpp-tutorial/constructor-member-initializer-lists/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.11",
+          "id": "default-constructors-and-default-arguments",
+          "title": "Default constructors and default arguments",
+          "ruTitle": "Конструкторы по умолчанию и аргументы по умолчанию",
+          "url": "https://www.learncpp.com/cpp-tutorial/default-constructors-and-default-arguments/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.12",
+          "id": "delegating-constructors",
+          "title": "Delegating constructors",
+          "ruTitle": "Делегирование конструкторов",
+          "url": "https://www.learncpp.com/cpp-tutorial/delegating-constructors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.13",
+          "id": "temporary-class-objects",
+          "title": "Temporary class objects",
+          "ruTitle": "Временные объекты класса",
+          "url": "https://www.learncpp.com/cpp-tutorial/temporary-class-objects/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.14",
+          "id": "introduction-to-the-copy-constructor",
+          "title": "Introduction to the copy constructor",
+          "ruTitle": "Знакомство с конструктором копирования",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-the-copy-constructor/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.15",
+          "id": "class-initialization-and-copy-elision",
+          "title": "Class initialization and copy elision",
+          "ruTitle": "Инициализация класса и исключение копирования",
+          "url": "https://www.learncpp.com/cpp-tutorial/class-initialization-and-copy-elision/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.16",
+          "id": "converting-constructors-and-the-explicit-keyword",
+          "title": "Converting constructors and the explicit keyword",
+          "ruTitle": "Преобразование конструкторов и ключевое слово явный",
+          "url": "https://www.learncpp.com/cpp-tutorial/converting-constructors-and-the-explicit-keyword/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.17",
+          "id": "constexpr-aggregates-and-classes",
+          "title": "Constexpr aggregates and classes",
+          "ruTitle": "Агрегаты и классы Constexpr",
+          "url": "https://www.learncpp.com/cpp-tutorial/constexpr-aggregates-and-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "14.x",
+          "id": "chapter-14-summary-and-quiz",
+          "title": "Chapter 14 summary and quiz",
+          "ruTitle": "Краткое содержание главы 14 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-14-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "title": "More on Classes",
+      "ruTitle": "Подробнее о занятиях",
+      "lessons": [
+        {
+          "number": "15.1",
+          "id": "the-hidden-this-pointer-and-member-function-chaining",
+          "title": "The hidden “this” pointer and member function chaining",
+          "ruTitle": "Скрытый указатель «this» и цепочка функций-членов",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-hidden-this-pointer-and-member-function-chaining/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.2",
+          "id": "classes-and-header-files",
+          "title": "Classes and header files",
+          "ruTitle": "Классы и заголовочные файлы",
+          "url": "https://www.learncpp.com/cpp-tutorial/classes-and-header-files/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.3",
+          "id": "nested-types-member-types",
+          "title": "Nested types (member types)",
+          "ruTitle": "Вложенные типы (типы членов)",
+          "url": "https://www.learncpp.com/cpp-tutorial/nested-types-member-types/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.4",
+          "id": "introduction-to-destructors",
+          "title": "Introduction to destructors",
+          "ruTitle": "Введение в деструкторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-destructors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.5",
+          "id": "class-templates-with-member-functions",
+          "title": "Class templates with member functions",
+          "ruTitle": "Шаблоны классов с функциями-членами",
+          "url": "https://www.learncpp.com/cpp-tutorial/class-templates-with-member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.6",
+          "id": "static-member-variables",
+          "title": "Static member variables",
+          "ruTitle": "Статические переменные-члены",
+          "url": "https://www.learncpp.com/cpp-tutorial/static-member-variables/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.7",
+          "id": "static-member-functions",
+          "title": "Static member functions",
+          "ruTitle": "Статические функции-члены",
+          "url": "https://www.learncpp.com/cpp-tutorial/static-member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.8",
+          "id": "friend-non-member-functions",
+          "title": "Friend non-member functions",
+          "ruTitle": "Дружественные функции, не являющиеся членами",
+          "url": "https://www.learncpp.com/cpp-tutorial/friend-non-member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.9",
+          "id": "friend-classes-and-friend-member-functions",
+          "title": "Friend classes and friend member functions",
+          "ruTitle": "Классы друзей и функции-члены друзей",
+          "url": "https://www.learncpp.com/cpp-tutorial/friend-classes-and-friend-member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.10",
+          "id": "ref-qualifiers",
+          "title": "Ref qualifiers",
+          "ruTitle": "Реф-квалификаторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/ref-qualifiers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "15.x",
+          "id": "chapter-15-summary-and-quiz",
+          "title": "Chapter 15 summary and quiz",
+          "ruTitle": "Краткое содержание главы 15 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-15-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "title": "Dynamic arrays: std::vector",
+      "ruTitle": "Динамические массивы: std::vector",
+      "lessons": [
+        {
+          "number": "16.1",
+          "id": "introduction-to-containers-and-arrays",
+          "title": "Introduction to containers and arrays",
+          "ruTitle": "Введение в контейнеры и массивы",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-containers-and-arrays/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.2",
+          "id": "introduction-to-stdvector-and-list-constructors",
+          "title": "Introduction to std::vector and list constructors",
+          "ruTitle": "Введение в std::vector и конструкторы списков",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdvector-and-list-constructors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.3",
+          "id": "stdvector-and-the-unsigned-length-and-subscript-problem",
+          "title": "std::vector and the unsigned length and subscript problem",
+          "ruTitle": "std::vector и проблема беззнаковой длины и индекса",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdvector-and-the-unsigned-length-and-subscript-problem/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.4",
+          "id": "passing-stdvector",
+          "title": "Passing std::vector",
+          "ruTitle": "Передача std::vector",
+          "url": "https://www.learncpp.com/cpp-tutorial/passing-stdvector/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.5",
+          "id": "returning-stdvector-and-an-introduction-to-move-semantics",
+          "title": "Returning std::vector, and an introduction to move semantics",
+          "ruTitle": "Возвращение std::vector и введение в семантику перемещения",
+          "url": "https://www.learncpp.com/cpp-tutorial/returning-stdvector-and-an-introduction-to-move-semantics/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.6",
+          "id": "arrays-and-loops",
+          "title": "Arrays and loops",
+          "ruTitle": "Массивы и циклы",
+          "url": "https://www.learncpp.com/cpp-tutorial/arrays-and-loops/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.7",
+          "id": "arrays-loops-and-sign-challenge-solutions",
+          "title": "Arrays, loops, and sign challenge solutions",
+          "ruTitle": "Массивы, циклы и решения проблем со знаками",
+          "url": "https://www.learncpp.com/cpp-tutorial/arrays-loops-and-sign-challenge-solutions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.8",
+          "id": "range-based-for-loops-for-each",
+          "title": "Range-based for loops (for-each)",
+          "ruTitle": "Циклы for на основе диапазона (для каждого)",
+          "url": "https://www.learncpp.com/cpp-tutorial/range-based-for-loops-for-each/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.9",
+          "id": "array-indexing-and-length-using-enumerators",
+          "title": "Array indexing and length using enumerators",
+          "ruTitle": "Индексация и длина массива с использованием перечислителей",
+          "url": "https://www.learncpp.com/cpp-tutorial/array-indexing-and-length-using-enumerators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.10",
+          "id": "stdvector-resizing-and-capacity",
+          "title": "std::vector resizing and capacity",
+          "ruTitle": "std::изменение размера и емкости вектора",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdvector-resizing-and-capacity/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.11",
+          "id": "stdvector-and-stack-behavior",
+          "title": "std::vector and stack behavior",
+          "ruTitle": "std::vector и поведение стека",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdvector-and-stack-behavior/",
+          "status": "В переводе"
+        },
+        {
+          "number": "16.x",
+          "id": "chapter-16-summary-and-quiz",
+          "title": "Chapter 16 summary and quiz",
+          "ruTitle": "Краткое содержание главы 16 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-16-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "title": "Fixed-size arrays: std::array and C-style arrays",
+      "ruTitle": "Массивы фиксированного размера: std::array и массивы в стиле C.",
+      "lessons": [
+        {
+          "number": "17.1",
+          "id": "introduction-to-stdarray",
+          "title": "Introduction to std::array",
+          "ruTitle": "Введение в std::array",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-stdarray/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.2",
+          "id": "stdarray-length-and-indexing",
+          "title": "std::array length and indexing",
+          "ruTitle": "std::длина массива и индексация",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdarray-length-and-indexing/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.3",
+          "id": "passing-and-returning-stdarray",
+          "title": "Passing and returning std::array",
+          "ruTitle": "Передача и возврат std::array",
+          "url": "https://www.learncpp.com/cpp-tutorial/passing-and-returning-stdarray/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.4",
+          "id": "stdarray-of-class-types-and-brace-elision",
+          "title": "std::array of class types, and brace elision",
+          "ruTitle": "std::array типов классов и исключение скобок",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdarray-of-class-types-and-brace-elision/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.5",
+          "id": "arrays-of-references-via-stdreference_wrapper",
+          "title": "Arrays of references via std::reference_wrapper",
+          "ruTitle": "Массивы ссылок через std::reference_wrapper",
+          "url": "https://www.learncpp.com/cpp-tutorial/arrays-of-references-via-stdreference_wrapper/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.6",
+          "id": "stdarray-and-enumerations",
+          "title": "std::array and enumerations",
+          "ruTitle": "std::array и перечисления",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdarray-and-enumerations/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.7",
+          "id": "introduction-to-c-style-arrays",
+          "title": "Introduction to C-style arrays",
+          "ruTitle": "Введение в массивы в стиле C",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-c-style-arrays/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.8",
+          "id": "c-style-array-decay",
+          "title": "C-style array decay",
+          "ruTitle": "Распад массива в стиле C",
+          "url": "https://www.learncpp.com/cpp-tutorial/c-style-array-decay/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.9",
+          "id": "pointer-arithmetic-and-subscripting",
+          "title": "Pointer arithmetic and subscripting",
+          "ruTitle": "Арифметика указателей и индексация",
+          "url": "https://www.learncpp.com/cpp-tutorial/pointer-arithmetic-and-subscripting/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.10",
+          "id": "c-style-strings",
+          "title": "C-style strings",
+          "ruTitle": "Строки в стиле C",
+          "url": "https://www.learncpp.com/cpp-tutorial/c-style-strings/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.11",
+          "id": "c-style-string-symbolic-constants",
+          "title": "C-style string symbolic constants",
+          "ruTitle": "Строковые символические константы в стиле C",
+          "url": "https://www.learncpp.com/cpp-tutorial/c-style-string-symbolic-constants/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.12",
+          "id": "multidimensional-c-style-arrays",
+          "title": "Multidimensional C-style Arrays",
+          "ruTitle": "Многомерные массивы в стиле C",
+          "url": "https://www.learncpp.com/cpp-tutorial/multidimensional-c-style-arrays/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.13",
+          "id": "multidimensional-stdarray",
+          "title": "Multidimensional std::array",
+          "ruTitle": "Многомерный std::array",
+          "url": "https://www.learncpp.com/cpp-tutorial/multidimensional-stdarray/",
+          "status": "В переводе"
+        },
+        {
+          "number": "17.x",
+          "id": "chapter-17-summary-and-quiz",
+          "title": "Chapter 17 summary and quiz",
+          "ruTitle": "Краткое содержание главы 17 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-17-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "title": "Iterators and Algorithms (under construction)",
+      "ruTitle": "Итераторы и алгоритмы (в разработке)",
+      "lessons": [
+        {
+          "number": "18.1",
+          "id": "sorting-an-array-using-selection-sort",
+          "title": "Sorting an array using selection sort",
+          "ruTitle": "Сортировка массива с помощью сортировки выбором",
+          "url": "https://www.learncpp.com/cpp-tutorial/sorting-an-array-using-selection-sort/",
+          "status": "В переводе"
+        },
+        {
+          "number": "18.2",
+          "id": "introduction-to-iterators",
+          "title": "Introduction to iterators",
+          "ruTitle": "Знакомство с итераторами",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-iterators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "18.3",
+          "id": "introduction-to-standard-library-algorithms",
+          "title": "Introduction to standard library algorithms",
+          "ruTitle": "Введение в алгоритмы стандартной библиотеки",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-standard-library-algorithms/",
+          "status": "В переводе"
+        },
+        {
+          "number": "18.4",
+          "id": "timing-your-code",
+          "title": "Timing your code",
+          "ruTitle": "Тайминг вашего кода",
+          "url": "https://www.learncpp.com/cpp-tutorial/timing-your-code/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "title": "Dynamic Allocation (under construction)",
+      "ruTitle": "Динамическое распределение (в разработке)",
+      "lessons": [
+        {
+          "number": "19.1",
+          "id": "dynamic-memory-allocation-with-new-and-delete",
+          "title": "Dynamic memory allocation with new and delete",
+          "ruTitle": "Динамическое распределение памяти с созданием и удалением",
+          "url": "https://www.learncpp.com/cpp-tutorial/dynamic-memory-allocation-with-new-and-delete/",
+          "status": "В переводе"
+        },
+        {
+          "number": "19.2",
+          "id": "dynamically-allocating-arrays",
+          "title": "Dynamically allocating arrays",
+          "ruTitle": "Динамическое распределение массивов",
+          "url": "https://www.learncpp.com/cpp-tutorial/dynamically-allocating-arrays/",
+          "status": "В переводе"
+        },
+        {
+          "number": "19.3",
+          "id": "destructors",
+          "title": "Destructors",
+          "ruTitle": "Деструкторы",
+          "url": "https://www.learncpp.com/cpp-tutorial/destructors/",
+          "status": "В переводе"
+        },
+        {
+          "number": "19.4",
+          "id": "pointers-to-pointers",
+          "title": "Pointers to pointers and dynamic multidimensional arrays",
+          "ruTitle": "Указатели на указатели и динамические многомерные массивы",
+          "url": "https://www.learncpp.com/cpp-tutorial/pointers-to-pointers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "19.5",
+          "id": "void-pointers",
+          "title": "Void pointers",
+          "ruTitle": "Пустые указатели",
+          "url": "https://www.learncpp.com/cpp-tutorial/void-pointers/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "title": "Functions",
+      "ruTitle": "Функции",
+      "lessons": [
+        {
+          "number": "20.1",
+          "id": "function-pointers",
+          "title": "Function Pointers",
+          "ruTitle": "Указатели функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-pointers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.2",
+          "id": "the-stack-and-the-heap",
+          "title": "The stack and the heap",
+          "ruTitle": "Стек и куча",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-stack-and-the-heap/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.3",
+          "id": "recursion",
+          "title": "Recursion",
+          "ruTitle": "Рекурсия",
+          "url": "https://www.learncpp.com/cpp-tutorial/recursion/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.4",
+          "id": "command-line-arguments",
+          "title": "Command line arguments",
+          "ruTitle": "Аргументы командной строки",
+          "url": "https://www.learncpp.com/cpp-tutorial/command-line-arguments/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.5",
+          "id": "ellipsis-and-why-to-avoid-them",
+          "title": "Ellipsis (and why to avoid them)",
+          "ruTitle": "Многоточие (и почему их следует избегать)",
+          "url": "https://www.learncpp.com/cpp-tutorial/ellipsis-and-why-to-avoid-them/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.6",
+          "id": "introduction-to-lambdas-anonymous-functions",
+          "title": "Introduction to lambdas (anonymous functions)",
+          "ruTitle": "Введение в лямбды (анонимные функции)",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-lambdas-anonymous-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.7",
+          "id": "lambda-captures",
+          "title": "Lambda captures",
+          "ruTitle": "Лямбда захватывает",
+          "url": "https://www.learncpp.com/cpp-tutorial/lambda-captures/",
+          "status": "В переводе"
+        },
+        {
+          "number": "20.x",
+          "id": "chapter-20-summary-and-quiz",
+          "title": "Chapter 20 summary and quiz",
+          "ruTitle": "Краткое содержание главы 20 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-20-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "21",
+      "title": "Operator Overloading",
+      "ruTitle": "Перегрузка оператора",
+      "lessons": [
+        {
+          "number": "21.1",
+          "id": "introduction-to-operator-overloading",
+          "title": "Introduction to operator overloading",
+          "ruTitle": "Введение в перегрузку операторов",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-operator-overloading/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.2",
+          "id": "overloading-the-arithmetic-operators-using-friend-functions",
+          "title": "Overloading the arithmetic operators using friend functions",
+          "ruTitle": "Перегрузка арифметических операторов с помощью дружественных функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-arithmetic-operators-using-friend-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.3",
+          "id": "overloading-operators-using-normal-functions",
+          "title": "Overloading operators using normal functions",
+          "ruTitle": "Перегрузка операторов с использованием обычных функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-operators-using-normal-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.4",
+          "id": "overloading-the-io-operators",
+          "title": "Overloading the I/O operators",
+          "ruTitle": "Перегрузка операторов ввода-вывода",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-io-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.5",
+          "id": "overloading-operators-using-member-functions",
+          "title": "Overloading operators using member functions",
+          "ruTitle": "Перегрузка операторов с использованием функций-членов",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-operators-using-member-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.6",
+          "id": "overloading-unary-operators",
+          "title": "Overloading unary operators +, -, and !",
+          "ruTitle": "Перегрузка унарных операторов +, - и !",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-unary-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.7",
+          "id": "overloading-the-comparison-operators",
+          "title": "Overloading the comparison operators",
+          "ruTitle": "Перегрузка операторов сравнения",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-comparison-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.8",
+          "id": "overloading-the-increment-and-decrement-operators",
+          "title": "Overloading the increment and decrement operators",
+          "ruTitle": "Перегрузка операторов инкремента и декремента",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-increment-and-decrement-operators/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.9",
+          "id": "overloading-the-subscript-operator",
+          "title": "Overloading the subscript operator",
+          "ruTitle": "Перегрузка оператора индекса",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-subscript-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.10",
+          "id": "overloading-the-parenthesis-operator",
+          "title": "Overloading the parenthesis operator",
+          "ruTitle": "Перегрузка оператора скобки",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-parenthesis-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.11",
+          "id": "overloading-typecasts",
+          "title": "Overloading typecasts",
+          "ruTitle": "Перегрузка типов",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-typecasts/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.12",
+          "id": "overloading-the-assignment-operator",
+          "title": "Overloading the assignment operator",
+          "ruTitle": "Перегрузка оператора присваивания",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-the-assignment-operator/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.13",
+          "id": "shallow-vs-deep-copying",
+          "title": "Shallow vs. deep copying",
+          "ruTitle": "Поверхностное и глубокое копирование",
+          "url": "https://www.learncpp.com/cpp-tutorial/shallow-vs-deep-copying/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.14",
+          "id": "overloading-operators-and-function-templates",
+          "title": "Overloading operators and function templates",
+          "ruTitle": "Перегрузка операторов и шаблонов функций",
+          "url": "https://www.learncpp.com/cpp-tutorial/overloading-operators-and-function-templates/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.x",
+          "id": "chapter-21-summary-and-quiz",
+          "title": "Chapter 21 summary and quiz",
+          "ruTitle": "Краткое содержание главы 21 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-21-summary-and-quiz/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.y",
+          "id": "chapter-21-project",
+          "title": "Chapter 21 project",
+          "ruTitle": "Глава 21 проекта",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-21-project/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "22",
+      "title": "Move Semantics and Smart Pointers",
+      "ruTitle": "Семантика перемещения и интеллектуальные указатели",
+      "lessons": [
+        {
+          "number": "22.1",
+          "id": "introduction-to-smart-pointers-move-semantics",
+          "title": "Introduction to smart pointers and move semantics",
+          "ruTitle": "Введение в интеллектуальные указатели и семантику перемещения",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-smart-pointers-move-semantics/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.2",
+          "id": "rvalue-references",
+          "title": "R-value references",
+          "ruTitle": "Ссылки на R-значения",
+          "url": "https://www.learncpp.com/cpp-tutorial/rvalue-references/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.3",
+          "id": "move-constructors-and-move-assignment",
+          "title": "Move constructors and move assignment",
+          "ruTitle": "Перемещение конструкторов и перемещение назначения",
+          "url": "https://www.learncpp.com/cpp-tutorial/move-constructors-and-move-assignment/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.4",
+          "id": "stdmove",
+          "title": "std::move",
+          "ruTitle": "станд::переместить",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdmove/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.5",
+          "id": "stdunique_ptr",
+          "title": "std::unique_ptr",
+          "ruTitle": "std::unique_ptr",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdunique_ptr/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.6",
+          "id": "stdshared_ptr",
+          "title": "std::shared_ptr",
+          "ruTitle": "std::shared_ptr",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdshared_ptr/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.7",
+          "id": "circular-dependency-issues-with-stdshared_ptr-and-stdweak_ptr",
+          "title": "Circular dependency issues with std::shared_ptr, and std::weak_ptr",
+          "ruTitle": "Проблемы циклической зависимости с std::shared_ptr и std::weak_ptr",
+          "url": "https://www.learncpp.com/cpp-tutorial/circular-dependency-issues-with-stdshared_ptr-and-stdweak_ptr/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.x",
+          "id": "chapter-22-summary-and-quiz",
+          "title": "Chapter 22 summary and quiz",
+          "ruTitle": "Краткое содержание главы 22 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-22-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "title": "Object Relationships",
+      "ruTitle": "Объектные отношения",
+      "lessons": [
+        {
+          "number": "23.1",
+          "id": "object-relationships",
+          "title": "Object relationships",
+          "ruTitle": "Отношения объектов",
+          "url": "https://www.learncpp.com/cpp-tutorial/object-relationships/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.2",
+          "id": "composition",
+          "title": "Composition",
+          "ruTitle": "Состав",
+          "url": "https://www.learncpp.com/cpp-tutorial/composition/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.3",
+          "id": "aggregation",
+          "title": "Aggregation",
+          "ruTitle": "Агрегация",
+          "url": "https://www.learncpp.com/cpp-tutorial/aggregation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.4",
+          "id": "association",
+          "title": "Association",
+          "ruTitle": "Ассоциация",
+          "url": "https://www.learncpp.com/cpp-tutorial/association/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.5",
+          "id": "dependencies",
+          "title": "Dependencies",
+          "ruTitle": "Зависимости",
+          "url": "https://www.learncpp.com/cpp-tutorial/dependencies/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.6",
+          "id": "container-classes",
+          "title": "Container classes",
+          "ruTitle": "Классы контейнеров",
+          "url": "https://www.learncpp.com/cpp-tutorial/container-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.7",
+          "id": "stdinitializer_list",
+          "title": "std::initializer_list",
+          "ruTitle": "std::initializer_list",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdinitializer_list/",
+          "status": "В переводе"
+        },
+        {
+          "number": "23.x",
+          "id": "chapter-23-summary-and-quiz",
+          "title": "Chapter 23 summary and quiz",
+          "ruTitle": "Краткое содержание главы 23 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-23-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "24",
+      "title": "Inheritance",
+      "ruTitle": "Наследование",
+      "lessons": [
+        {
+          "number": "24.1",
+          "id": "introduction-to-inheritance",
+          "title": "Introduction to inheritance",
+          "ruTitle": "Введение в наследование",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-inheritance/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.2",
+          "id": "basic-inheritance-in-c",
+          "title": "Basic inheritance in C++",
+          "ruTitle": "Базовое наследование в C++",
+          "url": "https://www.learncpp.com/cpp-tutorial/basic-inheritance-in-c/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.3",
+          "id": "order-of-construction-of-derived-classes",
+          "title": "Order of construction of derived classes",
+          "ruTitle": "Порядок построения производных классов",
+          "url": "https://www.learncpp.com/cpp-tutorial/order-of-construction-of-derived-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.4",
+          "id": "constructors-and-initialization-of-derived-classes",
+          "title": "Constructors and initialization of derived classes",
+          "ruTitle": "Конструкторы и инициализация производных классов",
+          "url": "https://www.learncpp.com/cpp-tutorial/constructors-and-initialization-of-derived-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.5",
+          "id": "inheritance-and-access-specifiers",
+          "title": "Inheritance and access specifiers",
+          "ruTitle": "Спецификаторы наследования и доступа",
+          "url": "https://www.learncpp.com/cpp-tutorial/inheritance-and-access-specifiers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.6",
+          "id": "adding-new-functionality-to-a-derived-class",
+          "title": "Adding new functionality to a derived class",
+          "ruTitle": "Добавление новой функциональности в производный класс",
+          "url": "https://www.learncpp.com/cpp-tutorial/adding-new-functionality-to-a-derived-class/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.7",
+          "id": "calling-inherited-functions-and-overriding-behavior",
+          "title": "Calling inherited functions and overriding behavior",
+          "ruTitle": "Вызов унаследованных функций и переопределение поведения",
+          "url": "https://www.learncpp.com/cpp-tutorial/calling-inherited-functions-and-overriding-behavior/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.8",
+          "id": "hiding-inherited-functionality",
+          "title": "Hiding inherited functionality",
+          "ruTitle": "Скрытие унаследованной функциональности",
+          "url": "https://www.learncpp.com/cpp-tutorial/hiding-inherited-functionality/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.9",
+          "id": "multiple-inheritance",
+          "title": "Multiple inheritance",
+          "ruTitle": "Множественное наследование",
+          "url": "https://www.learncpp.com/cpp-tutorial/multiple-inheritance/",
+          "status": "В переводе"
+        },
+        {
+          "number": "24.x",
+          "id": "chapter-24-summary-and-quiz",
+          "title": "Chapter 24 summary and quiz",
+          "ruTitle": "Краткое содержание главы 24 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-24-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "25",
+      "title": "Virtual Functions",
+      "ruTitle": "Виртуальные функции",
+      "lessons": [
+        {
+          "number": "25.1",
+          "id": "pointers-and-references-to-the-base-class-of-derived-objects",
+          "title": "Pointers and references to the base class of derived objects",
+          "ruTitle": "Указатели и ссылки на базовый класс производных объектов",
+          "url": "https://www.learncpp.com/cpp-tutorial/pointers-and-references-to-the-base-class-of-derived-objects/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.2",
+          "id": "virtual-functions",
+          "title": "Virtual functions and polymorphism",
+          "ruTitle": "Виртуальные функции и полиморфизм",
+          "url": "https://www.learncpp.com/cpp-tutorial/virtual-functions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.3",
+          "id": "the-override-and-final-specifiers-and-covariant-return-types",
+          "title": "The override and final specifiers, and covariant return types",
+          "ruTitle": "Спецификаторы переопределения и финала, а также ковариантные типы возвращаемых значений.",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-override-and-final-specifiers-and-covariant-return-types/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.4",
+          "id": "virtual-destructors-virtual-assignment-and-overriding-virtualization",
+          "title": "Virtual destructors, virtual assignment, and overriding virtualization",
+          "ruTitle": "Виртуальные деструкторы, виртуальное присвоение и переопределение виртуализации",
+          "url": "https://www.learncpp.com/cpp-tutorial/virtual-destructors-virtual-assignment-and-overriding-virtualization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.5",
+          "id": "early-binding-and-late-binding",
+          "title": "Early binding and late binding",
+          "ruTitle": "Раннее связывание и позднее связывание",
+          "url": "https://www.learncpp.com/cpp-tutorial/early-binding-and-late-binding/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.6",
+          "id": "the-virtual-table",
+          "title": "The virtual table",
+          "ruTitle": "Виртуальный стол",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-virtual-table/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.7",
+          "id": "pure-virtual-functions-abstract-base-classes-and-interface-classes",
+          "title": "Pure virtual functions, abstract base classes, and interface classes",
+          "ruTitle": "Чистые виртуальные функции, абстрактные базовые классы и классы интерфейса.",
+          "url": "https://www.learncpp.com/cpp-tutorial/pure-virtual-functions-abstract-base-classes-and-interface-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.8",
+          "id": "virtual-base-classes",
+          "title": "Virtual base classes",
+          "ruTitle": "Виртуальные базовые классы",
+          "url": "https://www.learncpp.com/cpp-tutorial/virtual-base-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.9",
+          "id": "object-slicing",
+          "title": "Object slicing",
+          "ruTitle": "Нарезка объектов",
+          "url": "https://www.learncpp.com/cpp-tutorial/object-slicing/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.10",
+          "id": "dynamic-casting",
+          "title": "Dynamic casting",
+          "ruTitle": "Динамический кастинг",
+          "url": "https://www.learncpp.com/cpp-tutorial/dynamic-casting/",
+          "status": "В переводе"
+        },
+        {
+          "number": "25.x",
+          "id": "chapter-25-summary-and-quiz",
+          "title": "Chapter 25 summary and quiz",
+          "ruTitle": "Краткое содержание главы 25 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-25-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "title": "Templates and Classes",
+      "ruTitle": "Шаблоны и классы",
+      "lessons": [
+        {
+          "number": "26.1",
+          "id": "template-classes",
+          "title": "Template classes",
+          "ruTitle": "Классы шаблонов",
+          "url": "https://www.learncpp.com/cpp-tutorial/template-classes/",
+          "status": "В переводе"
+        },
+        {
+          "number": "26.2",
+          "id": "template-non-type-parameters",
+          "title": "Template non-type parameters",
+          "ruTitle": "Параметры, не относящиеся к типу шаблона",
+          "url": "https://www.learncpp.com/cpp-tutorial/template-non-type-parameters/",
+          "status": "В переводе"
+        },
+        {
+          "number": "26.3",
+          "id": "function-template-specialization",
+          "title": "Function template specialization",
+          "ruTitle": "Специализация шаблона функции",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-template-specialization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "26.4",
+          "id": "class-template-specialization",
+          "title": "Class template specialization",
+          "ruTitle": "Специализация шаблона класса",
+          "url": "https://www.learncpp.com/cpp-tutorial/class-template-specialization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "26.5",
+          "id": "partial-template-specialization",
+          "title": "Partial template specialization",
+          "ruTitle": "Частичная специализация шаблона",
+          "url": "https://www.learncpp.com/cpp-tutorial/partial-template-specialization/",
+          "status": "В переводе"
+        },
+        {
+          "number": "26.6",
+          "id": "partial-template-specialization-for-pointers",
+          "title": "Partial template specialization for pointers",
+          "ruTitle": "Частичная специализация шаблона для указателей",
+          "url": "https://www.learncpp.com/cpp-tutorial/partial-template-specialization-for-pointers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "26.x",
+          "id": "chapter-26-summary-and-quiz",
+          "title": "Chapter 26 summary and quiz",
+          "ruTitle": "Краткое содержание главы 26 и тест",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-26-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "27",
+      "title": "Exceptions",
+      "ruTitle": "Исключения",
+      "lessons": [
+        {
+          "number": "27.1",
+          "id": "the-need-for-exceptions",
+          "title": "The need for exceptions",
+          "ruTitle": "Необходимость исключений",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-need-for-exceptions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.2",
+          "id": "basic-exception-handling",
+          "title": "Basic exception handling",
+          "ruTitle": "Базовая обработка исключений",
+          "url": "https://www.learncpp.com/cpp-tutorial/basic-exception-handling/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.3",
+          "id": "exceptions-functions-and-stack-unwinding",
+          "title": "Exceptions, functions, and stack unwinding",
+          "ruTitle": "Исключения, функции и раскрутка стека",
+          "url": "https://www.learncpp.com/cpp-tutorial/exceptions-functions-and-stack-unwinding/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.4",
+          "id": "uncaught-exceptions-catch-all-handlers",
+          "title": "Uncaught exceptions and catch-all handlers",
+          "ruTitle": "Неперехваченные исключения и универсальные обработчики",
+          "url": "https://www.learncpp.com/cpp-tutorial/uncaught-exceptions-catch-all-handlers/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.5",
+          "id": "exceptions-classes-and-inheritance",
+          "title": "Exceptions, classes, and inheritance",
+          "ruTitle": "Исключения, классы и наследование",
+          "url": "https://www.learncpp.com/cpp-tutorial/exceptions-classes-and-inheritance/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.6",
+          "id": "rethrowing-exceptions",
+          "title": "Rethrowing exceptions",
+          "ruTitle": "Повторное создание исключений",
+          "url": "https://www.learncpp.com/cpp-tutorial/rethrowing-exceptions/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.7",
+          "id": "function-try-blocks",
+          "title": "Function try blocks",
+          "ruTitle": "Функциональные блоки try",
+          "url": "https://www.learncpp.com/cpp-tutorial/function-try-blocks/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.8",
+          "id": "exception-dangers-and-downsides",
+          "title": "Exception dangers and downsides",
+          "ruTitle": "Опасности и недостатки исключений",
+          "url": "https://www.learncpp.com/cpp-tutorial/exception-dangers-and-downsides/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.9",
+          "id": "exception-specifications-and-noexcept",
+          "title": "Exception specifications and noexcept",
+          "ruTitle": "Спецификации исключений и noException",
+          "url": "https://www.learncpp.com/cpp-tutorial/exception-specifications-and-noexcept/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.10",
+          "id": "stdmove_if_noexcept",
+          "title": "std::move_if_noexcept",
+          "ruTitle": "std::move_if_noException",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdmove_if_noexcept/",
+          "status": "В переводе"
+        },
+        {
+          "number": "27.x",
+          "id": "chapter-27-summary-and-quiz",
+          "title": "Chapter 27 summary and quiz",
+          "ruTitle": "Краткое содержание главы 27 и викторина",
+          "url": "https://www.learncpp.com/cpp-tutorial/chapter-27-summary-and-quiz/",
+          "status": "В переводе"
+        }
+      ]
+    },
+    {
+      "number": "28",
+      "title": "Input and Output (I/O)",
+      "ruTitle": "Ввод и вывод (I/O)",
+      "lessons": [
+        {
+          "number": "28.1",
+          "id": "input-and-output-io-streams",
+          "title": "Input and output (I/O) streams",
+          "ruTitle": "Потоки ввода и вывода (I/O)",
+          "url": "https://www.learncpp.com/cpp-tutorial/input-and-output-io-streams/",
+          "status": "В переводе"
+        },
+        {
+          "number": "28.2",
+          "id": "input-with-istream",
+          "title": "Input with istream",
+          "ruTitle": "Ввод с помощью istream",
+          "url": "https://www.learncpp.com/cpp-tutorial/input-with-istream/",
+          "status": "В переводе"
+        },
+        {
+          "number": "28.3",
+          "id": "output-with-ostream-and-ios",
+          "title": "Output with ostream and ios",
+          "ruTitle": "Вывод с помощью ostream и ios",
+          "url": "https://www.learncpp.com/cpp-tutorial/output-with-ostream-and-ios/",
+          "status": "В переводе"
+        },
+        {
+          "number": "28.4",
+          "id": "stream-classes-for-strings",
+          "title": "Stream classes for strings",
+          "ruTitle": "Потоковые классы для строк",
+          "url": "https://www.learncpp.com/cpp-tutorial/stream-classes-for-strings/",
+          "status": "В переводе"
+        },
+        {
+          "number": "28.5",
+          "id": "stream-states-and-input-validation",
+          "title": "Stream states and input validation",
+          "ruTitle": "Состояния потока и проверка ввода",
+          "url": "https://www.learncpp.com/cpp-tutorial/stream-states-and-input-validation/",
+          "status": "В переводе"
+        },
+        {
+          "number": "28.6",
+          "id": "basic-file-io",
+          "title": "Basic file I/O",
+          "ruTitle": "Базовый файловый ввод-вывод",
+          "url": "https://www.learncpp.com/cpp-tutorial/basic-file-io/",
+          "status": "В переводе"
+        },
+        {
+          "number": "28.7",
+          "id": "random-file-io",
+          "title": "Random file I/O",
+          "ruTitle": "Случайный файловый ввод-вывод",
+          "url": "https://www.learncpp.com/cpp-tutorial/random-file-io/",
+          "status": "В переводе"
+        },
+        {
+          "number": "A.1",
+          "id": "a1-static-and-dynamic-libraries",
+          "title": "Static and dynamic libraries",
+          "ruTitle": "Статические и динамические библиотеки",
+          "url": "https://www.learncpp.com/cpp-tutorial/a1-static-and-dynamic-libraries/",
+          "status": "В переводе"
+        },
+        {
+          "number": "A.2",
+          "id": "a2-using-libraries-with-visual-studio-2005-express",
+          "title": "Using libraries with Visual Studio",
+          "ruTitle": "Использование библиотек с Visual Studio",
+          "url": "https://www.learncpp.com/cpp-tutorial/a2-using-libraries-with-visual-studio-2005-express/",
+          "status": "В переводе"
+        },
+        {
+          "number": "A.3",
+          "id": "a3-using-libraries-with-codeblocks",
+          "title": "Using libraries with Code::Blocks",
+          "ruTitle": "Использование библиотек с Code::Blocks",
+          "url": "https://www.learncpp.com/cpp-tutorial/a3-using-libraries-with-codeblocks/",
+          "status": "В переводе"
+        },
+        {
+          "number": "A.4",
+          "id": "cpp-faq",
+          "title": "C++ FAQ",
+          "ruTitle": "Часто задаваемые вопросы по C++",
+          "url": "https://www.learncpp.com/cpp-tutorial/cpp-faq/",
+          "status": "В переводе"
+        },
+        {
+          "number": "B.1",
+          "id": "introduction-to-c11",
+          "title": "Introduction to C++11",
+          "ruTitle": "Введение в С++11",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-c11/",
+          "status": "В переводе"
+        },
+        {
+          "number": "B.2",
+          "id": "introduction-to-c14",
+          "title": "Introduction to C++14",
+          "ruTitle": "Введение в С++14",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-c14/",
+          "status": "В переводе"
+        },
+        {
+          "number": "B.3",
+          "id": "introduction-to-c17",
+          "title": "Introduction to C++17",
+          "ruTitle": "Введение в С++17",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-c17/",
+          "status": "В переводе"
+        },
+        {
+          "number": "B.4",
+          "id": "introduction-to-c20",
+          "title": "Introduction to C++20",
+          "ruTitle": "Введение в С++20",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-c20/",
+          "status": "В переводе"
+        },
+        {
+          "number": "B.5",
+          "id": "introduction-to-c23",
+          "title": "Introduction to C++23",
+          "ruTitle": "Введение в С++23",
+          "url": "https://www.learncpp.com/cpp-tutorial/introduction-to-c23/",
+          "status": "В переводе"
+        },
+        {
+          "number": "C.1",
+          "id": "appendix-c-the-end",
+          "title": "The end?",
+          "ruTitle": "Конец?",
+          "url": "https://www.learncpp.com/cpp-tutorial/appendix-c-the-end/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.1",
+          "id": "the-standard-library",
+          "title": "The Standard Library",
+          "ruTitle": "Стандартная библиотека",
+          "url": "https://www.learncpp.com/cpp-tutorial/the-standard-library/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.2",
+          "id": "stl-containers-overview",
+          "title": "STL containers overview",
+          "ruTitle": "Обзор STL-контейнеров",
+          "url": "https://www.learncpp.com/cpp-tutorial/stl-containers-overview/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.3",
+          "id": "stl-iterators-overview",
+          "title": "STL iterators overview",
+          "ruTitle": "Обзор итераторов STL",
+          "url": "https://www.learncpp.com/cpp-tutorial/stl-iterators-overview/",
+          "status": "В переводе"
+        },
+        {
+          "number": "21.4",
+          "id": "stl-algorithms-overview",
+          "title": "STL algorithms overview",
+          "ruTitle": "Обзор алгоритмов STL",
+          "url": "https://www.learncpp.com/cpp-tutorial/stl-algorithms-overview/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.1",
+          "id": "stdstring-and-stdwstring",
+          "title": "std::string and std::wstring",
+          "ruTitle": "std::string и std::wstring",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-and-stdwstring/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.2",
+          "id": "stdstring-construction-and-destruction",
+          "title": "std::string construction and destruction",
+          "ruTitle": "std::построение и уничтожение строк",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-construction-and-destruction/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.3",
+          "id": "stdstring-length-and-capacity",
+          "title": "std::string length and capacity",
+          "ruTitle": "std::длина и емкость строки",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-length-and-capacity/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.4",
+          "id": "stdstring-character-access-and-conversion-to-c-style-arrays",
+          "title": "std::string character access and conversion to C-style arrays",
+          "ruTitle": "Доступ к символам std::string и преобразование в массивы в стиле C",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-character-access-and-conversion-to-c-style-arrays/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.5",
+          "id": "stdstring-assignment-and-swapping",
+          "title": "std::string assignment and swapping",
+          "ruTitle": "std::присвоение и замена строк",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-assignment-and-swapping/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.6",
+          "id": "stdstring-appending",
+          "title": "std::string appending",
+          "ruTitle": "std::добавление строки",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-appending/",
+          "status": "В переводе"
+        },
+        {
+          "number": "22.7",
+          "id": "stdstring-inserting",
+          "title": "std::string inserting",
+          "ruTitle": "std::вставка строки",
+          "url": "https://www.learncpp.com/cpp-tutorial/stdstring-inserting/",
+          "status": "В переводе"
+        }
+      ]
+    }
+  ]
+}
